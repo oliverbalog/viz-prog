@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCBvfNcVcPfSJxfeqbGCj/OrJBwWI7AqQk5XxV2Mpd1Kjsexo4j7fN51Wtg5d3GhvqkwQLeIXFEBalPNw0Jmzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asper\\OneDrive\\Asztali gép\\viz_prog\\Vasut\\Vasut\\Vasut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
